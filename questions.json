@@ -1,0 +1,207 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which sentence uses the simple present tense?",
+        "options": [
+            "The dog is barking loudly.",
+            "The cat sleeps on the sofa.",
+            "I am eating an apple.",
+            "They were playing in the park."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Which sentence uses the present continuous tense?",
+        "options": [
+            "She likes ice cream.",
+            "They play soccer every weekend.",
+            "The bird is singing in the tree.",
+            "He walks to school."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which sentence shows something happening right now?",
+        "options": [
+            "I eat breakfast every morning.",
+            "The sun rises in the east.",
+            "They are watching a movie.",
+            "Cats like to chase mice."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Which sentence describes a regular habit?",
+        "options": [
+            "She is cooking dinner.",
+            "They brush their teeth twice a day.",
+            "I am reading a book.",
+            "The baby is crying."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Which sentence is correct?<br> (Simple present tense)",
+        "options": [
+            "She sing beautifully.",
+            "She sings beautifully.",
+            "She is sings beautifully.",
+            "She singing beautifully."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "The sun _____ in the east.<br> (Simple present tense)",
+        "options": [
+            "rise",
+            "rises",
+            "are rising"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Look! The children _____ in the garden.<br> (Present continuous tense)",
+        "options": [
+            "play",
+            "plays",
+            "are playing"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "My dog _____ his tail when he's happy.<br> (Simple present tense)",
+        "options": [
+            "wag",
+            "wags",
+            "is wagging"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Right now, I _____ my homework.<br> (Present continuous tense)",
+        "options": [
+            "do",
+            "does",
+            "am doing"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "The children _____ their toys right now.<br> (Present continuous tense)",
+        "options": [
+            "pack",
+            "packs",
+            "are packing"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Which sentence is in the simple present tense?",
+        "options": [
+            "She is eating an apple.",
+            "She eats an apple.",
+            "She ate an apple.",
+            "She will eat an apple."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Which sentence uses the present continuous tense?",
+        "options": [
+            "I play with my toys.",
+            "I am playing with my toys.",
+            "I played with my toys.",
+            "I will play with my toys."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Choose the correct sentence in the simple present tense.",
+        "options": [
+            "They is playing outside.",
+            "They are playing outside.",
+            "They play outside.",
+            "They played outside."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Which sentence uses present continuous tense?",
+        "options": [
+            "I write a letter.",
+            "I will write a letter.",
+            "I wrote a letter.",
+            "I am writing a letter."
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Choose the correct simple present tense form.",
+        "options": [
+            "He run every day.",
+            "He runs every day.",
+            "He is running every day.",
+            "He ran every day."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "The sentence 'He plays soccer every day' is in the simple present tense.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "In the sentence 'She is running to school,' the verb 'is running' shows the simple present tense.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "The simple present tense is used to talk about actions that happen regularly.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "The sentence 'They are eating breakfast' is in the present continuous tense.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "We use 'am,' 'is,' or 'are' + verb+ing for the present continuous tense.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    }
+]
